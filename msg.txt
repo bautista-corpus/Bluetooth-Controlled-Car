@@ -1,0 +1,12 @@
+wait 30000 ms
+"1"
+wait 20000 ms
+"5"
+wait 20000 ms
+"2"
+wait 20000 ms
+"5"
+wait 20000 ms
+"3"
+wait 20000 ms
+"5"
